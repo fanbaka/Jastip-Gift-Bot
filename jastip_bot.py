@@ -8,7 +8,7 @@ from telegram.ext import ContextTypes
 
 
 # Token dan Channel
-BOT_TOKEN = '8006002557:AAE1UZyGgFvaE7NArPt5yBLKkgHgm65zXOs'
+BOT_TOKEN = '8006002557:AAFZ5Dwpk8JlnOE2ja3-PUwUaSMNHjYUmnw'
 ADMIN_GROUP_ID = -4613809093  # Ganti dengan ID grup admin kamu
 LOG_GROUP_ID = -1002354693758  # Ganti dengan ID grup log kamu 
 CHANNEL_ID = '@giffors' 
